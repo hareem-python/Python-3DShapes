@@ -59,7 +59,6 @@ class Cube():
 
 
 #create lists and append data
-
 myList = []
 
 circle = 1
